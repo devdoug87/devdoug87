@@ -1,4 +1,4 @@
- Hello there !! 💻
+ Hello there !!
 Meu nome é Douglas, tenho interesse por fazer meus próprios jogos🕹️, mas ainda estou começando.<br> Estou me graduando em analise e desenvolvimento de sistemas 🎓 3/5.
 
 💻 Minhas hard skills: <br>
