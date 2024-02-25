@@ -10,8 +10,9 @@ Meu nome é Douglas, tenho interesse por fazer meus próprios jogos🕹️, mas 
 ✔️ <br>
 ✔️ <br>
 ✔️✋ <br>
-<a href="https://devdoug87.github.io/projeto-site/" target="_blank" rel="external"> Meu primeiro site.</a>
-📲Contato: <br>
+Aqui embaixo ⬇️⬇️⬇️ está o meu primeiro site, ensinado pelo  prof Gustavo Guanabara do Curso em video ⬇️⬇️⬇️ <br>
+https://devdoug87.github.io/projeto-site/ <br>
+📧Contato:devdoug87@gmail.com <br>
 ✔️ <br> 
  <div style="display: inline_block"><br>
     <img alt="html5"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
