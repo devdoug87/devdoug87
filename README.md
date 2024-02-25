@@ -10,7 +10,7 @@ Meu nome é Douglas, tenho interesse por fazer meus próprios jogos🕹️, mas 
 ✔️ <br>
 ✔️ <br>
 ✔️✋ <br>
-<a href="https://devdoug87.github.io/projeto-site/" target="_blank"> Meu primeiro site.</a>
+<a href="https://devdoug87.github.io/projeto-site/" target="_blank" rel="external"> Meu primeiro site.</a>
 📲Contato: <br>
 ✔️ <br> 
  <div style="display: inline_block"><br>
