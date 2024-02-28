@@ -10,7 +10,7 @@ Meu nome é Douglas, tenho interesse por fazer meus próprios jogos🕹️, mas 
 ✔️ <br>
 ✔️ <br>
 ✔️✋ <br>
-Aqui embaixo ⬇️⬇️⬇️ está o meu primeiro site, feito em html5 e CSS3 todo responsivo para visualização tanto em pcs, smart tv e tambem celulares, <br> ensinado pelo  prof Gustavo Guanabara do Curso em video ⬇️⬇️⬇️ <br>
+Aqui embaixo está o meu primeiro site, feito em html5 e CSS3 todo responsivo para visualização tanto em pcs, smart tv e tambem celulares, ensinado pelo  prof Gustavo Guanabara do Curso em video ⬇️⬇️⬇️ <br>
 https://devdoug87.github.io/projeto-site/ <br>
 📧Contato:devdoug87@gmail.com <br>
 ✔️ <br> 
