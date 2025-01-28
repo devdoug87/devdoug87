@@ -1,9 +1,9 @@
  Hello there !!
-Meu nome é Douglas, tenho interesse por fazer meus próprios jogos🕹️, mas ainda estou começando.<br> Estou me graduando em analise e desenvolvimento de sistemas 🎓 3/5.
+Meu nome é Douglas, tenho interesse por fazer meus próprios jogos🕹️, mas ainda estou começando.<br> Estou me graduando em analise e desenvolvimento de sistemas 🎓 5/5.
 
 💻 Minhas hard skills: <br>
 ✔️ HTML\ CSS\ <br>
-✔️ python <br>
+✔️ Javascript <br>
 ✔️ GIT/ GITHUB <br>
 📖 Cursos: <br>
 ✔️ <br>
